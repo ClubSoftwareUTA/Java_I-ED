@@ -16,4 +16,7 @@ Algoritmo Operaciones_Basicas
 	Escribir 'Resta: ',resta;
 	Escribir 'Multiplicacion: ',multiplicacion;
 	Escribir 'Division: ',division;
+	
+	hipotenusa=rc(4);
+	Escribir hipotenusa;
 FinAlgoritmo
