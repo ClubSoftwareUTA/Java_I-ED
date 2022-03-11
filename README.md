@@ -1,4 +1,4 @@
-# Repositorio: ejercicios para clases programacion a estudiantes de Nivelacion de la UTA
+# Repositorio: Ejercicios para clases programacion a estudiantes de Nivelacion de la UTA
 Codigo fuente de los ejercicios de programacion.
 
 Repositorio creado por club de estudiantes de software de la UTA.
