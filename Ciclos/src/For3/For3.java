@@ -30,7 +30,7 @@ public class For3 {
 		System.out.println("\n\nTablas del " + numeroInicial + ", hasta el " + numeroFinal
 				+ " con un limite de " + limite + "\n");
 
-		// Implementacion del ciclos
+		// Implementacion de los ciclos con tablas impresas de forma vertical
 		for (int j = numeroInicial; j <= numeroFinal; j++) {
 			for (int i = 0; i <= limite; i++) {
 				resultado = i * j;
@@ -38,15 +38,7 @@ public class For3 {
 			}
 			System.out.println("");
 		}
-
-		// Implementacion del ciclos
-		for (int i = 0; i <= limite; i++) {
-			for (int j = numeroInicial; j <= numeroFinal; j++) {
-				resultado = i * j;
-				System.out.print(j + " x " + i + " = " + resultado + " \t ");
-			}
-			System.out.println("");
-		}
+		teclado.close();
 	}
 
 }

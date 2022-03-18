@@ -29,6 +29,7 @@ public class While1 {
 
 		// Mostrar los resultados
 		System.out.println("El factorial de " + numero + " es " + factorial);
+		teclado.close();
 	}
 
 }

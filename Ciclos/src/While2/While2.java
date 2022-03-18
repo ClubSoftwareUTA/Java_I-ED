@@ -8,8 +8,8 @@ import java.util.Scanner;
  */
 
 /*
- * programa que lee 10 calificaciones y muestra cuantos aprueban y cuantos no,
- * se aprueba con calificaciones iguales o superiores a 7
+ * Realizar un programa que lee 10 calificaciones y muestra cuantos aprueban y cuantos no,
+ * --se aprueba con calificaciones iguales o superiores a 7
  */
 public class While2 {
 
@@ -38,5 +38,6 @@ public class While2 {
 
 		// Muestra de resultados
 		System.out.println("\nHay " + cantAprueba + " calificaciones que aprueban y " + cantReprueba + " que reprueban");
+		teclado.close();
 	}
 }
